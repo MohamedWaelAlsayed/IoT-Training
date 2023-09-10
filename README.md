@@ -45,7 +45,9 @@ Some Topics I teach in:
 - Security Rules
 - Connect IOT Device with Cloud like Firebase
 
-  Student Projects:
+###   Student Projects:
   • https://www.linkedin.com/feed/update/urn:li:activity:7102546984355426304/
+  
   • https://www.linkedin.com/feed/update/urn:li:activity:7103458614434000896/
+  
   • https://www.linkedin.com/feed/update/urn:li:activity:7104485902277619714/
